@@ -54,20 +54,14 @@ L'interface mobile de LendMe vous permettra de tester les fonctionnalités de pr
 
 Voici quelques aperçus de l'application LendMe :
 
-![Écran de connexion](images/lendme (6).jpeg)
-*L'écran de connexion de l'application.*
+![Écran de connexion](images/lendme_6.jpeg) L'écran de connexion de l'application.
 
-![Écran d'accueil](images/lendme (4).jpeg)
-*Interface d'accueil de l'application.*
+![Écran d'accueil](images/lendme_4.jpeg) Interface d'accueil de l'application.
 
-![Écran de transfert](images/lendme (5).jpeg)
-*Interface de transfert d'argent.*
+![Écran de transfert](images/lendme_5.jpeg) Interface de transfert d'argent.
 
-![Écran de dépot réussi](images/lendme (2).jpeg)
-*Interface de dépot d'argent (réussi).*
+![Écran de dépot réussi](images/lendme_2.jpeg) Interface de dépot d'argent (réussi).
 
-![Écran 404 dépot](images/lendme (3).jpeg)
-*Interface de transfert d'argent (erreur).*
+![Écran 404 dépot](images/lendme_3.jpeg) Interface de transfert d'argent (erreur).
 
-![Écran de prêt réussi](images/lendme (1).jpeg)
-*Interface de prêt d'argent (réussi).*
+![Écran de prêt réussi](images/lendme_1.jpeg) Interface de prêt d'argent (réussi).
