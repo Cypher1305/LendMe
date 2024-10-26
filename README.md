@@ -3,6 +3,13 @@
 LendMe est un projet de classe conçu pour mettre en place une application de prêt et de transfert d'argent en utilisant un middleware. 
 Ce projet utilise le **middleware de transaction JTA (Java Transaction API)** pour gérer les transactions de manière sécurisée et fiable.
 
+## Table des matières
+
+- [Prérequis](#Prérequis)
+- [Installation](#Installation)
+- [Contributions](#Contributions)
+- [Screenshots](#Screenshots)
+
 ## Prérequis
 
 Avant de commencer, assurez-vous d'avoir installés :
@@ -46,6 +53,24 @@ Avant de commencer, assurez-vous d'avoir installés :
      ```
 
    - Dans le **Spring Boot Dashboard**, exécutez l'application `backend-transaction_project` depuis le dossier `APPS`.
+  
+## Contributions
+Les contributions sont les bienvenues ! Si vous souhaitez améliorer le projet, veuillez suivre les étapes suivantes :
+
+1. Forkez le projet.
+2. Créez une nouvelle branche (git checkout -b ma-nouvelle-fonctionnalité).
+3. Effectuez vos modifications et ajoutez des tests si nécessaire.
+4. Commitez vos modifications
+     ```bash
+     git commit -m 'Ajout d\'une nouvelle fonctionnalité'
+     ```
+5. Poussez votre branche
+     ```bash
+     git push origin ma-nouvelle-fonctionnalité
+     ```
+6. Ouvrez une Pull Request.
+
+**Je serai ravi de recevoir vos suggestions et améliorations.🤗**
 
 ## Screenshots
 Suivez les étapes ci-dessus pour démarrer l'application front-end avec Expo et le backend avec Spring Boot. 
@@ -57,4 +82,6 @@ L'interface mobile de LendMe vous permettra de tester les fonctionnalités de pr
 | ![Écran de dépôt réussi](images/lendme_2.jpeg) | ![Écran 404 dépôt](images/lendme_3.jpeg) | ![Écran de prêt réussi](images/lendme_1.jpeg) |
 | Interface de dépôt d'argent (réussi). | Interface de dépôt (erreur). | Interface de prêt d'argent (réussi). |
 
+
+XoXo😘❤️❤️❤️
 
