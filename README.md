@@ -51,31 +51,10 @@ Avant de commencer, assurez-vous d'avoir installés :
 Suivez les étapes ci-dessus pour démarrer l'application front-end avec Expo et le backend avec Spring Boot. 
 L'interface mobile de LendMe vous permettra de tester les fonctionnalités de prêt et de transfert d'argent en temps réel.
 
-<div style="display: flex;">
-  <div style="margin: 10px; text-align: center; width: calc(33.33% - 5px);"> <!-- Largeur ajustée -->
-    <img src="images/lendme_6.jpeg" alt="Écran de connexion" style="width: 20%;" />
-    <p>L'écran de connexion de l'application.</p>
-  </div>
-  <div style="margin: 10px; text-align: center; width: calc(33.33% - 5px);"> <!-- Largeur ajustée -->
-    <img src="images/lendme_4.jpeg" alt="Écran d'accueil" style="width: 20%;" />
-    <p>Interface d'accueil de l'application.</p>
-  </div>
-  <div style="margin: 10px; text-align: center; width: calc(33.33% - 5px);"> <!-- Largeur ajustée -->
-    <img src="images/lendme_5.jpeg" alt="Écran de transfert" style="width: 20%;" />
-    <p>Interface de transfert d'argent.</p>
-  </div>
-  <div style="margin: 10px; text-align: center; width: calc(33.33% - 5px);"> <!-- Largeur ajustée -->
-    <img src="images/lendme_2.jpeg" alt="Écran de dépôt réussi" style="width: 20%;" />
-    <p>Interface de dépôt d'argent (réussi).</p>
-  </div>
-  <div style="margin: 10px; text-align: center; width: calc(33.33% - 5px);"> <!-- Largeur ajustée -->
-    <img src="images/lendme_3.jpeg" alt="Écran 404 dépôt" style="width: 20%;" />
-    <p>Interface de dépôt (erreur).</p>
-  </div>
-  <div style="margin: 10px; text-align: center; width: calc(33.33% - 5px);"> <!-- Largeur ajustée -->
-    <img src="images/lendme_1.jpeg" alt="Écran de prêt réussi" style="width: 20%;" />
-    <p>Interface de prêt d'argent (réussi).</p>
-  </div>
-</div>
+| ![Écran de connexion](images/lendme_6.jpeg) | ![Écran d'accueil](images/lendme_4.jpeg) | ![Écran de transfert](images/lendme_5.jpeg) |
+| --- | --- | --- |
+| L'écran de connexion de l'application. | Interface d'accueil de l'application. | Interface de transfert d'argent. |
+| ![Écran de dépôt réussi](images/lendme_2.jpeg) | ![Écran 404 dépôt](images/lendme_3.jpeg) | ![Écran de prêt réussi](images/lendme_1.jpeg) |
+| Interface de dépôt d'argent (réussi). | Interface de dépôt (erreur). | Interface de prêt d'argent (réussi). |
 
 
