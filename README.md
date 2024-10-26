@@ -53,27 +53,27 @@ L'interface mobile de LendMe vous permettra de tester les fonctionnalités de pr
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="margin: 10px; text-align: center; width: calc(33.33% - 20px);"> <!-- Largeur ajustée -->
-    <img src="images/lendme_6.jpeg" alt="Écran de connexion" style="width: 100%;" />
+    <img src="images/lendme_6.jpeg" alt="Écran de connexion" style="width: 33.3%;" />
     <p>L'écran de connexion de l'application.</p>
   </div>
   <div style="margin: 10px; text-align: center; width: calc(33.33% - 20px);"> <!-- Largeur ajustée -->
-    <img src="images/lendme_4.jpeg" alt="Écran d'accueil" style="width: 100%;" />
+    <img src="images/lendme_4.jpeg" alt="Écran d'accueil" style="width: 33.3%;" />
     <p>Interface d'accueil de l'application.</p>
   </div>
   <div style="margin: 10px; text-align: center; width: calc(33.33% - 20px);"> <!-- Largeur ajustée -->
-    <img src="images/lendme_5.jpeg" alt="Écran de transfert" style="width: 100%;" />
+    <img src="images/lendme_5.jpeg" alt="Écran de transfert" style="width: 33.3%;" />
     <p>Interface de transfert d'argent.</p>
   </div>
   <div style="margin: 10px; text-align: center; width: calc(33.33% - 20px);"> <!-- Largeur ajustée -->
-    <img src="images/lendme_2.jpeg" alt="Écran de dépôt réussi" style="width: 100%;" />
+    <img src="images/lendme_2.jpeg" alt="Écran de dépôt réussi" style="width: 33.3%;" />
     <p>Interface de dépôt d'argent (réussi).</p>
   </div>
   <div style="margin: 10px; text-align: center; width: calc(33.33% - 20px);"> <!-- Largeur ajustée -->
-    <img src="images/lendme_3.jpeg" alt="Écran 404 dépôt" style="width: 100%;" />
+    <img src="images/lendme_3.jpeg" alt="Écran 404 dépôt" style="width: 33.3%;" />
     <p>Interface de dépôt (erreur).</p>
   </div>
   <div style="margin: 10px; text-align: center; width: calc(33.33% - 20px);"> <!-- Largeur ajustée -->
-    <img src="images/lendme_1.jpeg" alt="Écran de prêt réussi" style="width: 100%;" />
+    <img src="images/lendme_1.jpeg" alt="Écran de prêt réussi" style="width: 33.3%;" />
     <p>Interface de prêt d'argent (réussi).</p>
   </div>
 </div>
