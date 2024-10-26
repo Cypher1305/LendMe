@@ -65,3 +65,15 @@ Voici quelques aperçus de l'application LendMe :
 ![Écran 404 dépot](images/lendme_3.jpeg) Interface de transfert d'argent (erreur).
 
 ![Écran de prêt réussi](images/lendme_1.jpeg) Interface de prêt d'argent (réussi).
+
+## Screenshots
+
+<div align="center">
+  <img src="images/lendme_6.jpeg" alt="Écran de connexion" width="400" />
+  <p>L'écran de connexion de l'application.</p>
+</div>
+
+<div align="center">
+  <img src="images/lendme_4.jpeg" alt="Écran d'accueil" width="400" />
+  <p>Interface d'accueil de l'application.</p>
+</div>
