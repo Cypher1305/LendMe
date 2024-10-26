@@ -47,33 +47,34 @@ Avant de commencer, assurez-vous d'avoir installés :
 
    - Dans le **Spring Boot Dashboard**, exécutez l'application `backend-transaction_project` depuis le dossier `APPS`.
 
-## Démarrage
-
+## Screenshots
 Suivez les étapes ci-dessus pour démarrer l'application front-end avec Expo et le backend avec Spring Boot. 
 L'interface mobile de LendMe vous permettra de tester les fonctionnalités de prêt et de transfert d'argent en temps réel.
 
-Voici quelques aperçus de l'application LendMe :
-
-![Écran de connexion](images/lendme_6.jpeg) L'écran de connexion de l'application.
-
-![Écran d'accueil](images/lendme_4.jpeg) Interface d'accueil de l'application.
-
-![Écran de transfert](images/lendme_5.jpeg) Interface de transfert d'argent.
-
-![Écran de dépot réussi](images/lendme_2.jpeg) Interface de dépot d'argent (réussi).
-
-![Écran 404 dépot](images/lendme_3.jpeg) Interface de transfert d'argent (erreur).
-
-![Écran de prêt réussi](images/lendme_1.jpeg) Interface de prêt d'argent (réussi).
-
-## Screenshots
-
-<div align="center">
-  <img src="images/lendme_6.jpeg" alt="Écran de connexion" width="400" />
-  <p>L'écran de connexion de l'application.</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="margin: 10px; text-align: center;">
+    <img src="images/lendme_6.jpeg" alt="Écran de connexion" width="200" />
+    <p>L'écran de connexion de l'application.</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="images/lendme_4.jpeg" alt="Écran d'accueil" width="200" />
+    <p>Interface d'accueil de l'application.</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="images/lendme_5.jpeg" alt="Écran de transfert" width="200" />
+    <p>Interface de transfert d'argent.</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="images/lendme_2.jpeg" alt="Écran de dépôt réussi" width="200" />
+    <p>Interface de dépôt d'argent (réussi).</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="images/lendme_3.jpeg" alt="Écran 404 dépôt" width="200" />
+    <p>Interface de dépôt (erreur).</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="images/lendme_1.jpeg" alt="Écran de prêt réussi" width="200" />
+    <p>Interface de prêt d'argent (réussi).</p>
+  </div>
 </div>
 
-<div align="center">
-  <img src="images/lendme_4.jpeg" alt="Écran d'accueil" width="400" />
-  <p>Interface d'accueil de l'application.</p>
-</div>
