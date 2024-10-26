@@ -51,7 +51,7 @@ Avant de commencer, assurez-vous d'avoir installés :
 Suivez les étapes ci-dessus pour démarrer l'application front-end avec Expo et le backend avec Spring Boot. 
 L'interface mobile de LendMe vous permettra de tester les fonctionnalités de prêt et de transfert d'argent en temps réel.
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
   <div style="margin: 10px; text-align: center; width: calc(33.33% - 5px);"> <!-- Largeur ajustée -->
     <img src="images/lendme_6.jpeg" alt="Écran de connexion" style="width: 20%;" />
     <p>L'écran de connexion de l'application.</p>
